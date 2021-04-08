@@ -6,3 +6,4 @@ I am currently searching for a role at a company with a balance of workplace cul
 
 Feel free to checkout my [portfolio](https://mgubernick.github.io/) or connect with me on [LinkedIn](https://www.linkedin.com/in/matthewgubernick/)! I'm always happy to chat tech, music, travel, movies or especially ultimate frisbee! 
 
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGubernick&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
