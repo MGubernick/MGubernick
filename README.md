@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is Matt 👋
+# 👋 Hi there friends, I'm Matt 👋
 
 I’m a full-stack web developer and software engineer located in Chicago, IL. I havea a background working in both post production audio as well as in the hospitality industry. These industries fostered my interests in collaboration, problem solving and efficiency, continual learning and creative thinking. The time spent in these prior industries along with the experiences and skills gained in the General Assembly program helped solidify my excitement for pursuing a new adventure in the world of development. I currently enjoy working with languages, frameworks and technologies such as JavaScript, React, Bootstrap, CSS, Express, MongoDB, Python, Django, PostgresSQL, the MERN stack and Heroku amongst other technologies and I'm always excited to learn something new! 
 
